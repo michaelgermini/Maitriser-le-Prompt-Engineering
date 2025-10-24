@@ -409,17 +409,6 @@ Ce contenu est publié sous licence **Creative Commons Attribution-ShareAlike 4.
 
 ---
 
-## 📞 Contact et réseaux sociaux
-
-| Plateforme | Lien | Description |
-|------------|------|-------------|
-| **GitHub** | [@michaelgermini](https://github.com/michaelgermini) | Code source et issues |
-| **LinkedIn** | [Michael Germini](https://linkedin.com/in/michaelgermini) | Articles et insights |
-| **Twitter** | [@michaelgermini](https://twitter.com/michaelgermini) | Actualités IA |
-| **Website** | [michaelgermini.info](https://michaelgermini.info) | Portfolio et blog |
-
----
-
 ## 📈 Dernières mises à jour
 
 ### Version 1.1 (Octobre 2024)
