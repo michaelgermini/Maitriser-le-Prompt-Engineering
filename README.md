@@ -8,52 +8,52 @@ Ce projet contient un livre complet sur le Prompt Engineering, organisé de mani
 
 ```
 Maîtriser le Prompt Engineering/
-├── [Table_des_matieres.md](Table_des_matieres.md)                 # Table des matières complète
-├── [README.md](README.md)                            # Ce fichier
-├── [Index_general.md](Index_general.md)               # Index thématique étendu
-├── [Exemples_Prompts_Concrets.md](Exemples_Prompts_Concrets.md)   # 15+ exemples prêts à l'emploi
+├── [Table_des_matieres.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Table_des_matieres.md)                 # Table des matières complète
+├── [README.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/README.md)                            # Ce fichier
+├── [Index_general.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Index_general.md)               # Index thématique étendu
+├── [Exemples_Prompts_Concrets.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Exemples_Prompts_Concrets.md)   # 15+ exemples prêts à l'emploi
 │
 ├── Introduction/
-│   └── [Introduction.md](Introduction/Introduction.md)                  # Présentation du livre et concepts de base
+│   └── [Introduction.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Introduction/Introduction.md)                  # Présentation du livre et concepts de base
 │
 ├── Partie_I_Bases/                      # Fondamentaux du Prompt Engineering
-│   ├── [Chapitre_1_Comprendre_les_prompts.md](Partie_I_Bases/Chapitre_1_Comprendre_les_prompts.md)
-│   ├── [Chapitre_2_Psychologie_linguistique.md](Partie_I_Bases/Chapitre_2_Psychologie_linguistique.md)
-│   └── [Chapitre_3_Outils_affinage.md](Partie_I_Bases/Chapitre_3_Outils_affinage.md)
+│   ├── [Chapitre_1_Comprendre_les_prompts.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_I_Bases/Chapitre_1_Comprendre_les_prompts.md)
+│   ├── [Chapitre_2_Psychologie_linguistique.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_I_Bases/Chapitre_2_Psychologie_linguistique.md)
+│   └── [Chapitre_3_Outils_affinage.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_I_Bases/Chapitre_3_Outils_affinage.md)
 │
 ├── Partie_II_Techniques/                # Techniques avancées
-│   ├── [Chapitre_4_Modeles_efficaces.md](Partie_II_Techniques/Chapitre_4_Modeles_efficaces.md)
-│   ├── [Chapitre_5_Controle_style_ton.md](Partie_II_Techniques/Chapitre_5_Controle_style_ton.md)
-│   └── [Chapitre_6_Optimisation_evaluation.md](Partie_II_Techniques/Chapitre_6_Optimisation_evaluation.md)
+│   ├── [Chapitre_4_Modeles_efficaces.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_II_Techniques/Chapitre_4_Modeles_efficaces.md)
+│   ├── [Chapitre_5_Controle_style_ton.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_II_Techniques/Chapitre_5_Controle_style_ton.md)
+│   └── [Chapitre_6_Optimisation_evaluation.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_II_Techniques/Chapitre_6_Optimisation_evaluation.md)
 │
 ├── Partie_III_Applications/             # Applications pratiques
-│   ├── [Chapitre_7_IA_contenu.md](Partie_III_Applications/Chapitre_7_IA_contenu.md)
-│   ├── [Chapitre_8_Applications_professionnelles.md](Partie_III_Applications/Chapitre_8_Applications_professionnelles.md)
-│   └── [Chapitre_9_Prompt_Education.md](Partie_III_Applications/Chapitre_9_Prompt_Education.md)
+│   ├── [Chapitre_7_IA_contenu.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_III_Applications/Chapitre_7_IA_contenu.md)
+│   ├── [Chapitre_8_Applications_professionnelles.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_III_Applications/Chapitre_8_Applications_professionnelles.md)
+│   └── [Chapitre_9_Prompt_Education.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_III_Applications/Chapitre_9_Prompt_Education.md)
 │
 ├── Partie_IV_Projets/                   # Projets et études de cas
-│   ├── [Chapitre_10_Etudes_cas.md](Partie_IV_Projets/Chapitre_10_Etudes_cas.md)
-│   └── [Chapitre_11_Exercices_pratiques.md](Partie_IV_Projets/Chapitre_11_Exercices_pratiques.md)
+│   ├── [Chapitre_10_Etudes_cas.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_IV_Projets/Chapitre_10_Etudes_cas.md)
+│   └── [Chapitre_11_Exercices_pratiques.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Partie_IV_Projets/Chapitre_11_Exercices_pratiques.md)
 │
 ├── Conclusion/
-│   └── [Conclusion.md](Conclusion/Conclusion.md)                    # Bilan et perspectives
+│   └── [Conclusion.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Conclusion/Conclusion.md)                    # Bilan et perspectives
 │
 ├── Annexes/                             # Ressources complémentaires
-│   ├── [Glossaire.md](Annexes/Glossaire.md)                     # Termes clés définis
-│   ├── [Ressources_recommandees.md](Annexes/Ressources_recommandees.md)       # Lectures et outils
-│   ├── [Modeles_prompts_prets.md](Annexes/Modeles_prompts_prets.md)         # Templates utilisables
-│   └── [Formules_calculs.md](Annexes/Formules_calculs.md)             # Métriques et calculs
+│   ├── [Glossaire.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Annexes/Glossaire.md)                     # Termes clés définis
+│   ├── [Ressources_recommandees.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Annexes/Ressources_recommandees.md)       # Lectures et outils
+│   ├── [Modeles_prompts_prets.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Annexes/Modeles_prompts_prets.md)         # Templates utilisables
+│   └── [Formules_calculs.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Annexes/Formules_calculs.md)             # Métriques et calculs
 │
 ├── Guides_Chapitres/                     # Guides de lecture détaillés
-│   ├── [Guide_Chapitre_1.md](Guides_Chapitres/Guide_Chapitre_1.md)           # Guide Chapitre 1
-│   ├── [Guide_Chapitre_3.md](Guides_Chapitres/Guide_Chapitre_3.md)           # Guide Chapitre 3
-│   ├── [Guide_Chapitre_4.md](Guides_Chapitres/Guide_Chapitre_4.md)           # Guide Chapitre 4
-│   ├── [Guide_Chapitre_7.md](Guides_Chapitres/Guide_Chapitre_7.md)           # Guide Chapitre 7
-│   └── [Guide_Chapitre_10.md](Guides_Chapitres/Guide_Chapitre_10.md)         # Guide Chapitre 10
+│   ├── [Guide_Chapitre_1.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Guides_Chapitres/Guide_Chapitre_1.md)           # Guide Chapitre 1
+│   ├── [Guide_Chapitre_3.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Guides_Chapitres/Guide_Chapitre_3.md)           # Guide Chapitre 3
+│   ├── [Guide_Chapitre_4.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Guides_Chapitres/Guide_Chapitre_4.md)           # Guide Chapitre 4
+│   ├── [Guide_Chapitre_7.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Guides_Chapitres/Guide_Chapitre_7.md)           # Guide Chapitre 7
+│   └── [Guide_Chapitre_10.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Guides_Chapitres/Guide_Chapitre_10.md)         # Guide Chapitre 10
 │
 └── Syntheses_Visuelles/                 # Aide-mémoire visuels
-    ├── [Ch1_Prompts.md](Syntheses_Visuelles/Ch1_Prompts.md)                   # Chapitre 1
-    └── [Ch4_Patterns.md](Syntheses_Visuelles/Ch4_Patterns.md)                  # Chapitre 4 (exemple)
+    ├── [Ch1_Prompts.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Syntheses_Visuelles/Ch1_Prompts.md)                   # Chapitre 1
+    └── [Ch4_Patterns.md](https://github.com/michaelgermini/Maitriser-le-Prompt-Engineering/blob/main/Syntheses_Visuelles/Ch4_Patterns.md)                  # Chapitre 4 (exemple)
 ```
 
 ## 🎯 Objectifs pédagogiques
